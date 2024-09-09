@@ -1,2 +1,0 @@
-# GermanyCalling
-Automate GERMANYCALLING
